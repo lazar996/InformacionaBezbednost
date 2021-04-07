@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><message>
+	<recipientId>goran</recipientId>
+	<senderId>pera</senderId>
+	<messageText><xenc:EncryptedData xmlns:xenc="http://www.w3.org/2001/04/xmlenc#" Type="http://www.w3.org/2001/04/xmlenc#Content"><xenc:EncryptionMethod Algorithm="http://www.w3.org/2001/04/xmlenc#tripledes-cbc"/><ds:KeyInfo xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+<ds:KeyName>Kriptovani tajni kljuc</ds:KeyName>
+<xenc:EncryptedKey><xenc:EncryptionMethod Algorithm="http://www.w3.org/2001/04/xmlenc#rsa-1_5"/><xenc:CipherData><xenc:CipherValue>buSwpRvYuA0Iou1ulMts5L13gSa+taCdqZmjJ/3zM+0RlJwPJQrE88N7FLzKaY0W3szCd5GbBdXR
+oxHpQRbRpUjkaCPL+EC7qgjhBxWyOEuIikj6HNNCHzGuwE2dPX4kRMkZJZDxs5VHQheuhhVOT3KU
+s5Y335nCQGv95/MsGQs=</xenc:CipherValue></xenc:CipherData></xenc:EncryptedKey></ds:KeyInfo><xenc:CipherData><xenc:CipherValue>aC/kARvtxP2PayMjYQU/PrnTPjKlvzornrKMngPgAJGXQ9Swql7cpw==</xenc:CipherValue></xenc:CipherData></xenc:EncryptedData></messageText>
+</message>
